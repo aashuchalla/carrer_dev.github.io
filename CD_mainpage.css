@@ -1,0 +1,21 @@
+CD_vedio{
+    position: fixed;
+
+}
+
+.CD_button{
+    position:absolute;
+    background-color:rgb(10, 10, 10);
+    color:rgb(221, 236, 177);
+    left:45%;
+    top: 65%;
+    font-size: 30;
+    font-style: bold;
+    border-radius: 5px;
+    border-color:none;
+    cursor: pointer;
+}
+.CD_button:hover{
+    background-color:rgb(221, 236, 177);
+    color:rgb(9, 9, 9);
+}
